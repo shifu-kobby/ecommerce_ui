@@ -3,6 +3,8 @@ import { NextStudio } from 'next-sanity/studio'
 import { metadata } from 'next-sanity/studio/metadata'
 import config from '../../sanity.config'
 
+import React from 'react'
+
 export default function StudioPage() {
   return (
     <>
